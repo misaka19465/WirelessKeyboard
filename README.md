@@ -2,7 +2,7 @@
 A keyboard between two device. 
 ---
 ## How to install?
-**JRE or JDK should installed on device.**
+**JRE or JDK should installed on device.**  
 **Node.js should installed on controller.**
 1. Download release of device to a device which you want control.
 2. Download release of controller to your phone or something else.
@@ -17,4 +17,4 @@ A keyboard between two device.
 ## what's the issue?
 - [ ] Can't use Ctrl+C because the controller daemon will stop. 
 
-** If you have ways to fix these, please send a email to me!**
+**If you have ways to fix these, please send a email to me!**
