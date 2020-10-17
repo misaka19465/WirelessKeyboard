@@ -1,7 +1,7 @@
 # WirelessKeyboard
 A keyboard between two device. 
 ---
-##How to install?
+## How to install?
 **JRE or JDK should installed on device.**
 **Node.js should installed on controller.**
 1. Download release of device to a device which you want control.
@@ -9,10 +9,10 @@ A keyboard between two device.
 3. Cd into downloaded folder on controller.
 4. Run `npm install` on controller.
 
-##How to use?
+## How to use?
 1. Run `node index.js` on controller.
 2. Run `java -jar Device.jar` on device.
 3. Then type anything you want to type!
 
-##what's the issue?
+## what's the issue?
 - [ ] Can't use Ctrl+C because the controller daemon will stop. 
