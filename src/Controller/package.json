@@ -1,0 +1,27 @@
+{
+  "name": "wirelesskeyboardcontroller",
+  "version": "0.0.1",
+  "description": "Wireless Keyboard Controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misaka19465/WirelessKeyboard.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/misaka19465/WirelessKeyboard/issues"
+  },
+  "homepage": "https://github.com/misaka19465/WirelessKeyboard#readme",
+  "dependencies": {
+    "iohook": "^0.6.6",
+    "node-abi": "^2.19.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "less": "^3.12.2"
+  }
+}
