@@ -16,3 +16,5 @@ A keyboard between two device.
 
 ## what's the issue?
 - [ ] Can't use Ctrl+C because the controller daemon will stop. 
+
+** If you have ways to fix these, please send a email to me!**
