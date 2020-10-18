@@ -1,6 +1,8 @@
 # WirelessKeyboard
 A keyboard between two device. 
 
+[中文](https://github.com/misaka19465/WirelessKeyboard/blob/main/READMECN.md)
+
 ## How to install?
 **JRE or JDK should installed on device.**  
 **Node.js should installed on controller.**
