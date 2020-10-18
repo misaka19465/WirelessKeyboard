@@ -1,5 +1,6 @@
 # WirelessKeyboard
-A keyboard between two device. 
+
+[English](https://github.com/misaka19465/WirelessKeyboard/blob/main/README.md)
 
 ## 怎么安装？
 **被控设备需要安装JRE**  
