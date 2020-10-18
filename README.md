@@ -1,6 +1,6 @@
 # WirelessKeyboard
 A keyboard between two device. 
-***
+
 ## How to install?
 **JRE or JDK should installed on device.**  
 **Node.js should installed on controller.**
